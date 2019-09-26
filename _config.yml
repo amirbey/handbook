@@ -33,7 +33,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
       layout: "handbook_page"
 
